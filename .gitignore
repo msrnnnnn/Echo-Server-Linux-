@@ -1,0 +1,10 @@
+build/
+bin/
+*.o
+*.exe
+*.out
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+*.log
